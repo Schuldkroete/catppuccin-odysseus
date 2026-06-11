@@ -1,0 +1,18 @@
+{
+  "name": "Catppuccin Macchiato Red",
+  "colors": {
+    "bg": "#24273a",
+    "fg": "#cad3f5",
+    "panel": "#363a4f",
+    "border": "#6e738d",
+    "red": "#ed8796",
+    "advanced": {
+      "sidebarBg": "#1e2030",
+      "hamburgerColor": "#ed8796",
+      "inputBg": "#1e2030",
+      "inputBorder": "#363a4f"
+    }
+  },
+  "bgPattern": "embers",
+  "bgEffectColor": "#f5a97f"
+}

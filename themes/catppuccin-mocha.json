@@ -1,0 +1,18 @@
+{
+  "name": "Catppuccin Mocha Red",
+  "colors": {
+    "bg": "#1e1e2e",
+    "fg": "#cdd6f4",
+    "panel": "#313244",
+    "border": "#6c7086",
+    "red": "#f38ba8",
+    "advanced": {
+      "sidebarBg": "#181825",
+      "hamburgerColor": "#f38ba8",
+      "inputBg": "#181825",
+      "inputBorder": "#313244"
+    }
+  },
+  "bgPattern": "embers",
+  "bgEffectColor": "#fab387"
+}
